@@ -1,0 +1,16 @@
+# Hugo default output directory
+public/
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
