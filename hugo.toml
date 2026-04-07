@@ -1,0 +1,29 @@
+baseURL = "https://lounio.github.io/"
+languageCode = "zh-CN"
+title = "Lounio's Blog"
+author = "Lounio"
+theme = "PaperMod"
+
+[params]
+  description = "个人技术博客"
+  keywords = ["博客", "技术", "Hugo"]
+  
+[params.footer]
+  copyright = "© 2026 Lounio"
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 3
