@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>技术 on Lounio's Blog</title><link>https://lounio.github.io/categories/%E6%8A%80%E6%9C%AF/</link><description>Recent content in 技术 on Lounio's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lounio.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇博客文章</title><link>https://lounio.github.io/posts/first-post/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate><guid>https://lounio.github.io/posts/first-post/</guid><description>&lt;h1 id="我的第一篇博客文章">我的第一篇博客文章&lt;/h1>
+&lt;p>欢迎来到我的个人博客！这是我使用 Hugo 搭建的第一个博客。&lt;/p>
+&lt;h2 id="为什么选择-hugo">为什么选择 Hugo？&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>速度快&lt;/strong>：Hugo 是用 Go 语言编写的，构建速度非常快&lt;/li>
+&lt;li>&lt;strong>灵活&lt;/strong>：支持多种主题和自定义配置&lt;/li>
+&lt;li>&lt;strong>易于使用&lt;/strong>：命令行工具简单直观&lt;/li>
+&lt;li>&lt;strong>GitHub Pages 友好&lt;/strong>：可以轻松部署到 GitHub Pages&lt;/li>
+&lt;/ul>
+&lt;h2 id="博客搭建过程">博客搭建过程&lt;/h2>
+&lt;ol>
+&lt;li>安装 Hugo&lt;/li>
+&lt;li>初始化博客项目&lt;/li>
+&lt;li>选择并安装主题&lt;/li>
+&lt;li>配置基本信息&lt;/li>
+&lt;li>创建内容&lt;/li>
+&lt;li>部署到 GitHub Pages&lt;/li>
+&lt;/ol>
+&lt;h2 id="未来计划">未来计划&lt;/h2>
+&lt;ul>
+&lt;li>分享技术学习笔记&lt;/li>
+&lt;li>记录项目开发经验&lt;/li>
+&lt;li>介绍实用工具和技巧&lt;/li>
+&lt;/ul>
+&lt;p>希望你喜欢我的博客！&lt;/p></description></item></channel></rss>
